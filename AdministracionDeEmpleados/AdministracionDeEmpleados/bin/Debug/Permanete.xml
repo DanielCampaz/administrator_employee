@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data-Config-App>
+  <Login>
+    <Data-Employee-Admin>null</Data-Employee-Admin>
+    <Is-Login>null</Is-Login>
+  </Login>
+</Data-Config-App>
